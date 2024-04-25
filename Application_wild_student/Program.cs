@@ -1,8 +1,7 @@
 ﻿using System.Drawing;
-<<<<<<< HEAD
+
 using Application_wild_student.Menu;
-=======
->>>>>>> 64f46d9f972fde35267a8afa3ed4ab3fd588755f
+
 using Newtonsoft.Json;
 
 namespace Application_wild_student
@@ -10,13 +9,11 @@ namespace Application_wild_student
     public class Program
     {
 
-<<<<<<< HEAD
         static void Main(string[] args)
         { 
             MenuMngt menu = new MenuMngt();
             menu._MenuMngt();
-           
-=======
+
         public static string wildStudent = @"
     ███████╗██╗  ██╗ █████╗ ██╗     ██╗     ██╗███╗   ██╗ ██████╗ 
     ██╔════╝██║  ██║██╔══██╗██║     ██║     ██║████╗  ██║██╔════╝ 
